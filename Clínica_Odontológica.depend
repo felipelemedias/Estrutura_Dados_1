@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666719417 source:c:\users\fleme\onedrive\Área de trabalho\clínica_odontológica\main.c
+	<stdio.h>
+	<stdlib.h>
+
